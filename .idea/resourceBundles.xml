@@ -19,26 +19,6 @@
     <file url="file://$PROJECT_DIR$/core/strings_tok.properties" />
     <file url="file://$PROJECT_DIR$/core/strings_tr.properties" />
     <file url="file://$PROJECT_DIR$/core/strings_zh_CN.properties" />
-    <custom-resource-bundle>
-      <file value="file://$PROJECT_DIR$/core/strings.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_ar.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_de.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_en_GB.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_es.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_fi_FI.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_fr_FR.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_hu.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_it.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_ja.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_ko.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_pl_PL.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_pt.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_pt_PT.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_ru_RU.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_tok.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_tr.properties" />
-      <file value="file://$PROJECT_DIR$/core/strings_zh_CN.properties" />
-      <base-name>strings</base-name>
-    </custom-resource-bundle>
+    <file url="file://$PROJECT_DIR$/core/strings_zh_TW.properties" />
   </component>
 </project>
